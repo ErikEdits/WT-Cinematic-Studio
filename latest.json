@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
-  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.7/WT.Cinematic.Studio.Setup.1.0.7.exe",
-  "notes": "Fix EACCES error during auto-update - use PowerShell Start-Process -Verb RunAs to trigger UAC for perMachine installer",
-  "sha256": "af5e14aa7bd0dca912343aa5c7b1a23b9394cfd2e14b46570d9922ce268d471a",
-  "releaseDate": "2026-05-31T13:00:56.343Z"
+  "version": "1.0.8",
+  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.8/WT.Cinematic.Studio.Setup.1.0.8.exe",
+  "notes": "Passwords encrypted with Windows DPAPI - OBS WebSocket password and API keys stored in secure.dat instead of plain text in app-settings.json",
+  "sha256": "ac23374f9643767b71d7be92a4f8ebbb41cd6b421ae3964a06fbc512393da0ae",
+  "releaseDate": "2026-05-31T13:08:56.579Z"
 }
