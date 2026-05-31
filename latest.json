@@ -1,7 +1,7 @@
 {
-  "version": "1.0.17",
-  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.17/WT.Cinematic.Studio.Setup.1.0.17.exe",
-  "notes": "Update installer window now shows 'Installing update' (localized in 16 languages) instead of generic 'Installing'",
-  "sha256": "201be61e4421893bfdb1ea9d2073bb5f6f856c7eb713d089b08b0f2ceed07e5b",
-  "releaseDate": "2026-05-31T14:45:24.233Z"
+  "version": "1.0.18",
+  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.18/WT.Cinematic.Studio.Setup.1.0.18.exe",
+  "notes": "Extended i18n coverage: search box, folder button, OBS panel, resolution label, settings folder labels, password fields. English fallback for missing keys instead of German.",
+  "sha256": "ae7c3c489c11e076f14ac887f408afb2fa4a2735d841ce196bbe24afc75d38d4",
+  "releaseDate": "2026-05-31T14:56:07.638Z"
 }
