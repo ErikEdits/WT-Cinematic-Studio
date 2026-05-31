@@ -1,7 +1,7 @@
 {
-  "version": "1.0.19",
-  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.19/WT.Cinematic.Studio.Setup.1.0.19.exe",
-  "notes": "Fix tray icon - move to assets/ folder since build/ is excluded from app bundle as buildResources",
-  "sha256": "1d409e44b9014b00bf4e6235f5051e3ecc88168ceecfea76aaf61e14f3a3b440",
-  "releaseDate": "2026-05-31T15:04:19.305Z"
+  "version": "1.0.20",
+  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.20/WT.Cinematic.Studio.Setup.1.0.20.exe",
+  "notes": "Welcome modal now translated - title, subtitle, system info labels, OBS plugin status, buttons",
+  "sha256": "f54902108fd7d862878713a54912155959b4da85ac015e55f5bd3afce84c5914",
+  "releaseDate": "2026-05-31T15:09:38.746Z"
 }
