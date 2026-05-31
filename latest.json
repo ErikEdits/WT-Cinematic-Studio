@@ -1,7 +1,7 @@
 {
-  "version": "1.0.16",
-  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.16/WT.Cinematic.Studio.Setup.1.0.16.exe",
-  "notes": "Auto-update installer window now shows in user-selected language (was showing system language). Maps language code from registry to NSIS LCID before any pages render.",
-  "sha256": "9ce9e7f6dfb2f639252215affc772aaac1785195d3ff2b650212f31d419d6531",
-  "releaseDate": "2026-05-31T14:41:40.096Z"
+  "version": "1.0.17",
+  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.17/WT.Cinematic.Studio.Setup.1.0.17.exe",
+  "notes": "Update installer window now shows 'Installing update' (localized in 16 languages) instead of generic 'Installing'",
+  "sha256": "201be61e4421893bfdb1ea9d2073bb5f6f856c7eb713d089b08b0f2ceed07e5b",
+  "releaseDate": "2026-05-31T14:45:24.233Z"
 }
