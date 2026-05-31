@@ -1,7 +1,7 @@
 {
-  "version": "1.0.18",
-  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.18/WT.Cinematic.Studio.Setup.1.0.18.exe",
-  "notes": "Extended i18n coverage: search box, folder button, OBS panel, resolution label, settings folder labels, password fields. English fallback for missing keys instead of German.",
-  "sha256": "ae7c3c489c11e076f14ac887f408afb2fa4a2735d841ce196bbe24afc75d38d4",
-  "releaseDate": "2026-05-31T14:56:07.638Z"
+  "version": "1.0.19",
+  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.19/WT.Cinematic.Studio.Setup.1.0.19.exe",
+  "notes": "Fix tray icon - move to assets/ folder since build/ is excluded from app bundle as buildResources",
+  "sha256": "1d409e44b9014b00bf4e6235f5051e3ecc88168ceecfea76aaf61e14f3a3b440",
+  "releaseDate": "2026-05-31T15:04:19.305Z"
 }
