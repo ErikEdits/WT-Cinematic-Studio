@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
-  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.8/WT.Cinematic.Studio.Setup.1.0.8.exe",
-  "notes": "Passwords encrypted with Windows DPAPI - OBS WebSocket password and API keys stored in secure.dat instead of plain text in app-settings.json",
-  "sha256": "ac23374f9643767b71d7be92a4f8ebbb41cd6b421ae3964a06fbc512393da0ae",
-  "releaseDate": "2026-05-31T13:08:56.579Z"
+  "version": "1.0.9",
+  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.9/WT.Cinematic.Studio.Setup.1.0.9.exe",
+  "notes": "Auto-update silent install + auto-restart, system tray with background mode, render keeps running when window closed",
+  "sha256": "a5378d84b708a9ea3315c471f1107c71bde61e5e4578252ba93a3cd7e0a2b093",
+  "releaseDate": "2026-05-31T13:18:12.669Z"
 }
