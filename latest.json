@@ -1,7 +1,7 @@
 {
-  "version": "1.0.13",
-  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.13/WT.Cinematic.Studio.Setup.1.0.13.exe",
-  "notes": "Fix auto-restart: use cmd start /B for true Windows process detachment (PowerShell was being killed when Electron quit)",
-  "sha256": "500d0512c14afb90d41d050b7309b8ca9d2952a5a47fc6e8da17ba2735393960",
-  "releaseDate": "2026-05-31T13:48:25.970Z"
+  "version": "1.0.14",
+  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.14/WT.Cinematic.Studio.Setup.1.0.14.exe",
+  "notes": "Add detailed i18n debug logging to diagnose language not applying issue",
+  "sha256": "7c8e4e4be82921b791917c90feeaf4179ee511e589b1fa268937cef19ba906f8",
+  "releaseDate": "2026-05-31T14:00:28.696Z"
 }
