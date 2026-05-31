@@ -1,7 +1,7 @@
 {
-  "version": "1.0.12",
-  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.12/WT.Cinematic.Studio.Setup.1.0.12.exe",
-  "notes": "Show app icon in window title bar + taskbar + system tray - set AppUserModelID for Windows taskbar grouping",
-  "sha256": "7656dc1563ca98bc7e2d08b5d6415be9f38e46444986c66086a79aef54e27698",
-  "releaseDate": "2026-05-31T13:42:27.507Z"
+  "version": "1.0.13",
+  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.13/WT.Cinematic.Studio.Setup.1.0.13.exe",
+  "notes": "Fix auto-restart: use cmd start /B for true Windows process detachment (PowerShell was being killed when Electron quit)",
+  "sha256": "500d0512c14afb90d41d050b7309b8ca9d2952a5a47fc6e8da17ba2735393960",
+  "releaseDate": "2026-05-31T13:48:25.970Z"
 }
