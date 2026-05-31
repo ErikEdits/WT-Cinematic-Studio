@@ -1,7 +1,7 @@
 {
-  "version": "1.0.10",
-  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.10/WT.Cinematic.Studio.Setup.1.0.10.exe",
-  "notes": "OBS captures War Thunder process audio only (no Discord/system audio) + Window Capture (only WT game window) + Recording starts only when WT window is actually open",
-  "sha256": "0e52623578540e3b5694e6e95139c3e09b7a05161ba3902d1a7fccd3c82efc91",
-  "releaseDate": "2026-05-31T13:30:32.413Z"
+  "version": "1.0.11",
+  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.11/WT.Cinematic.Studio.Setup.1.0.11.exe",
+  "notes": "Fix auto-restart after update - PowerShell helper script waits for installer to finish then relaunches app, with full debug log to update-runner.log",
+  "sha256": "575e7ca3ebf77dcc6e02c1e07885c6072ad9a9ae25bccfa85cb02745de849aa9",
+  "releaseDate": "2026-05-31T13:37:30.643Z"
 }
