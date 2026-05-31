@@ -1,7 +1,7 @@
 {
-  "version": "1.0.11",
-  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.11/WT.Cinematic.Studio.Setup.1.0.11.exe",
-  "notes": "Fix auto-restart after update - PowerShell helper script waits for installer to finish then relaunches app, with full debug log to update-runner.log",
-  "sha256": "575e7ca3ebf77dcc6e02c1e07885c6072ad9a9ae25bccfa85cb02745de849aa9",
-  "releaseDate": "2026-05-31T13:37:30.643Z"
+  "version": "1.0.12",
+  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.12/WT.Cinematic.Studio.Setup.1.0.12.exe",
+  "notes": "Show app icon in window title bar + taskbar + system tray - set AppUserModelID for Windows taskbar grouping",
+  "sha256": "7656dc1563ca98bc7e2d08b5d6415be9f38e46444986c66086a79aef54e27698",
+  "releaseDate": "2026-05-31T13:42:27.507Z"
 }
