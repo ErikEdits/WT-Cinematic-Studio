@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.3/WT.Cinematic.Studio.Setup.1.0.3.exe",
-  "notes": "Version 1.0.3",
-  "sha256": "92b9cc97280352361df49e89a20f19d0bb8d72ce6ecbe1928750f7d25b977757",
-  "releaseDate": "2026-05-31T12:07:08.552Z"
+  "version": "1.0.4",
+  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.4/WT.Cinematic.Studio.Setup.1.0.4.exe",
+  "notes": "Discord-Kontakt eingebaut in README + Privacy Policy",
+  "sha256": "69007fd05ee5d7dff653be0f32134645a7a55cbb50fce95c22e2ea2b10a20fbb",
+  "releaseDate": "2026-05-31T12:20:23.935Z"
 }
