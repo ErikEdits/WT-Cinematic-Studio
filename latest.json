@@ -1,7 +1,7 @@
 {
-  "version": "1.0.15",
-  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.15/WT.Cinematic.Studio.Setup.1.0.15.exe",
-  "notes": "Full app version shown in sidebar, single-instance lock prevents two windows after update, force-exit on update to avoid tray-hangover",
-  "sha256": "31832459f4a88586675d256276f9558dadd505033786f3b101fae85d842ba0f3",
-  "releaseDate": "2026-05-31T14:38:43.437Z"
+  "version": "1.0.16",
+  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.16/WT.Cinematic.Studio.Setup.1.0.16.exe",
+  "notes": "Auto-update installer window now shows in user-selected language (was showing system language). Maps language code from registry to NSIS LCID before any pages render.",
+  "sha256": "9ce9e7f6dfb2f639252215affc772aaac1785195d3ff2b650212f31d419d6531",
+  "releaseDate": "2026-05-31T14:41:40.096Z"
 }
