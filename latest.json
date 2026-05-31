@@ -1,7 +1,7 @@
 {
-  "version": "1.0.20",
-  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.20/WT.Cinematic.Studio.Setup.1.0.20.exe",
-  "notes": "Welcome modal now translated - title, subtitle, system info labels, OBS plugin status, buttons",
-  "sha256": "f54902108fd7d862878713a54912155959b4da85ac015e55f5bd3afce84c5914",
-  "releaseDate": "2026-05-31T15:09:38.746Z"
+  "version": "1.0.21",
+  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.21/WT.Cinematic.Studio.Setup.1.0.21.exe",
+  "notes": "Welcome modal now shows real hardware specs - CPU/GPU/RAM/Cores/VRAM/Disk auto-detected via PowerShell on first start",
+  "sha256": "9a5ed7aa4874d930b6a3ca7a431d7d9e0ddd0256155dca1acb53e7c0ac3fa9c0",
+  "releaseDate": "2026-05-31T17:01:57.280Z"
 }
