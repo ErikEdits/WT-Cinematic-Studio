@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.5/WT.Cinematic.Studio.Setup.1.0.5.exe",
-  "notes": "Switch to GitHub Releases API for instant update detection (no more CDN cache delays)",
-  "sha256": "0c1aa4b6fea5e6c1a217e460a9e9f75035e79ab33f9329240fefb689a6657dcc",
-  "releaseDate": "2026-05-31T12:24:03.572Z"
+  "version": "1.0.6",
+  "url": "https://github.com/ErikEdits/WT-Cinematic-Studio/releases/download/v1.0.6/WT.Cinematic.Studio.Setup.1.0.6.exe",
+  "notes": "App-UI uses installer-selected language - sidebar nav + page headers translate to 16 languages",
+  "sha256": "a122c48f363bfee0b04dd693cd0d83ff3cb6aa7c5eef83e95afb8db70b07ed01",
+  "releaseDate": "2026-05-31T12:32:59.356Z"
 }
